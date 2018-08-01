@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/aliexpresscraper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python-aliexpress-api-client" vcs="Git" />
   </component>
 </project>
